@@ -10,7 +10,7 @@ Os projetos abordam diferentes temas e problemas, o que me permite explorar uma 
 
 ## Projetos 📁
 
-* 
+* [Relatório feito no Power BI](https://github.com/RenataOliveirags/meus-projetos/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst%20-%20DIO)
 
 ## Projetos acadêmicos/profissionais ✍️
 
