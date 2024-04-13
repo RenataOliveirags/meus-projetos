@@ -27,7 +27,8 @@ The projects address different themes and issues, allowing me to explore a varie
 
 ## Projects 📁
 
-* 
+* [Power BI Report](https://github.com/RenataOliveirags/meus-projetos/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst%20-%20DIO)
+
 
 ## Academic/Professional Projects ✍️
 *
