@@ -11,6 +11,7 @@ Os projetos abordam diferentes temas e problemas, o que me permite explorar uma 
 ## Projetos 📁
 
 * [Relatório feito no Power BI](https://github.com/RenataOliveirags/meus-projetos/tree/main/Forma%C3%A7%C3%A3o%20Power%20BI%20Analyst%20-%20DIO)
+* [Coleta e processamento de dados integrando Azure e Power BI ](https://github.com/RenataOliveirags/meus-projetos/tree/main/Projeto%20DIO%20-%20Coleta%20e%20processamento%20de%20dados%20com%20Power%20BI)
 
 ## Projetos acadêmicos/profissionais ✍️
 
